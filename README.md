@@ -1,1 +1,1 @@
-# SlowFast-cb
+# <<VCD: View-Constraint Disentanglement for Action Recognition>>
